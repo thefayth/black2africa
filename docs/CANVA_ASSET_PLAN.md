@@ -4,6 +4,32 @@ This plan gives Canva-ready directions for the public Black2Africa repository
 visual package. Existing public brand assets are already staged, so these
 directions are for refinement, replacement, or future campaign export.
 
+## Canva Production Update
+
+Canva folder:
+
+```text
+https://www.canva.com/folder/FAHM_D3o8qU
+```
+
+Brand kit used: `XXYYZZ SOCIETY`.
+
+Created editable Canva production sources:
+
+| Asset | Size | Canva design ID | Edit link | Repo destination |
+| --- | ---: | --- | --- | --- |
+| Source banner | Canva YouTube banner preset | `DAHM_GOwyvI` | `https://www.canva.com/d/tRfCg1Oj2kOvc2E` | Source reference only |
+| GitHub banner | 1600 x 400 | `DAHM_E5uuLo` | `https://www.canva.com/d/6b1jHlH_1uRsugB` | `assets/banners/github-banner.png` |
+| WordPress hero / featured image | 2400 x 1350 | `DAHM_Gaoy8E` | `https://www.canva.com/d/YPAtVE750bZP-DE` | `assets/hero/hero-image.png` |
+| Social preview card | 1200 x 630 | `DAHM_ObMBzc` | `https://www.canva.com/d/HdbRV4i64MKAFQM` | `assets/social/social-card.png` |
+| Project icon | 1024 x 1024 | `DAHM_M0EQM4` | `https://www.canva.com/d/HGTz_8wvqrWhmWl` | `assets/icons/project-icon.png` |
+| Workflow infographic | Canva infographic preset | `DAHM_LsX2Q8` | `https://www.canva.com/d/u6z020wLxNESn1Z` | `assets/diagrams/workflow-overview.svg` or future PNG export |
+
+Connector note: Canva design creation, folder creation, and resizing were
+available in this Codex session. Full-resolution PNG export from Canva was not
+exposed by the connector, so the repo continues to use the existing
+production-sized public-safe PNG assets until Canva exports are downloaded.
+
 ## Hero Image
 
 - Purpose: README hero, WordPress hero, and first public project impression.

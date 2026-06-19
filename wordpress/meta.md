@@ -44,6 +44,12 @@ Featured image recommendation: use `assets/hero/hero-image.png`.
 
 Alternate featured image: `assets/hero/hero-visual.svg`.
 
+Canva featured image source:
+
+```text
+https://www.canva.com/d/YPAtVE750bZP-DE
+```
+
 Featured image alt text:
 
 ```text

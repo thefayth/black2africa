@@ -40,8 +40,9 @@ project visual assets:
 - `assets/icons/project-mark.svg`
 - `assets/gallery/`
 
-Private screenshots, QA browser profiles, plugin assets, deployment receipts,
-and working-source files were not copied.
+Private screenshots, QA browser profiles, deployment receipts, and
+working-source files were not copied. Public-facing plugin image assets were
+copied only when rated public safe in the image audit.
 
 ## Color Notes
 

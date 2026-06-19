@@ -71,6 +71,10 @@ system and staged for immediate GitHub and WordPress use.
 | `assets/gallery/process-illustration.svg` | Public process/gallery visual |
 | `assets/gallery/hero-illustration.svg` | Public storytelling visual |
 
+Editable Canva sources for the banner, GitHub banner, WordPress hero, social
+card, project icon, and workflow infographic are tracked in
+[`assets/canva/README.md`](assets/canva/README.md).
+
 ![Black2Africa process illustration](assets/gallery/process-illustration.svg)
 
 ![Black2Africa trade map](assets/gallery/black2africa-trade-map.svg)

@@ -6,6 +6,33 @@ This audit records the visual candidates inspected for the public Black2Africa
 GitHub export. Only assets rated `PUBLIC SAFE` were copied into
 `_github_public_export/`.
 
+## Canva Update
+
+Canva production folder:
+
+```text
+https://www.canva.com/folder/FAHM_D3o8qU
+```
+
+The following editable Canva designs were created for the public GitHub,
+WordPress, social, project icon, and workflow surfaces. They are public-safe
+design sources and should not contain private screenshots, account consoles,
+legal records, credentials, customer data, private workflows, or deployment
+receipts.
+
+| Canva asset | Size | Design ID | Public use | Safety rating |
+| --- | ---: | --- | --- | --- |
+| Source banner | Canva YouTube banner preset | `DAHM_GOwyvI` | Editable master visual direction | PUBLIC SAFE |
+| GitHub banner | 1600 x 400 | `DAHM_E5uuLo` | GitHub repo banner export source | PUBLIC SAFE |
+| WordPress hero / featured image | 2400 x 1350 | `DAHM_Gaoy8E` | FaithCheltenham.com project page featured image source | PUBLIC SAFE |
+| Social preview card | 1200 x 630 | `DAHM_ObMBzc` | Open Graph and social preview source | PUBLIC SAFE |
+| Project icon | 1024 x 1024 | `DAHM_M0EQM4` | Repo/project icon source; review crop before broad use | PUBLIC SAFE |
+| Workflow infographic | Canva infographic preset | `DAHM_LsX2Q8` | Public project workflow explanation source | PUBLIC SAFE |
+
+The Canva connector did not expose a full-resolution PNG export action in this
+session. Existing high-resolution PNG assets remain the active repo files until
+Canva exports are downloaded and reviewed.
+
 ## Rating Key
 
 - `PUBLIC SAFE`: acceptable for the public GitHub export after Faith review.

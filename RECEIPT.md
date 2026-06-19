@@ -221,7 +221,43 @@ package was generated from the public brand palette and project language: hero
 image, GitHub banner, social card, and project icon. Image prompt files and the
 Canva asset plan were also created for future refinement.
 
-No private screenshots were copied. No new external AI images were generated.
+No private screenshots were copied. Canva AI was later used to create editable
+public design sources, but no private screenshots, records, or account-console
+views were used as inputs.
+
+## Canva Asset Update
+
+Canva was used to create an editable public image asset family for
+Black2Africa.
+
+Canva folder:
+
+```text
+https://www.canva.com/folder/FAHM_D3o8qU
+```
+
+Brand kit used:
+
+```text
+XXYYZZ SOCIETY
+```
+
+Editable Canva designs created:
+
+| Asset | Size | Canva design ID | Edit link |
+| --- | ---: | --- | --- |
+| Source banner | Canva YouTube banner preset | `DAHM_GOwyvI` | `https://www.canva.com/d/tRfCg1Oj2kOvc2E` |
+| GitHub banner | 1600 x 400 | `DAHM_E5uuLo` | `https://www.canva.com/d/6b1jHlH_1uRsugB` |
+| WordPress hero / featured image | 2400 x 1350 | `DAHM_Gaoy8E` | `https://www.canva.com/d/YPAtVE750bZP-DE` |
+| Social preview card | 1200 x 630 | `DAHM_ObMBzc` | `https://www.canva.com/d/HdbRV4i64MKAFQM` |
+| Project icon | 1024 x 1024 | `DAHM_M0EQM4` | `https://www.canva.com/d/HGTz_8wvqrWhmWl` |
+| Workflow infographic | Canva infographic preset | `DAHM_LsX2Q8` | `https://www.canva.com/d/u6z020wLxNESn1Z` |
+
+Connector limitation: the available Canva connector created designs, resized
+derivatives, and organized them into a Canva folder, but it did not expose a
+full-resolution PNG export action. The existing public-safe high-resolution PNG
+files remain active in the repository until exact Canva PNG exports are
+downloaded and reviewed.
 
 ## Privacy Status
 

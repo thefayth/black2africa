@@ -27,8 +27,9 @@ Created editable Canva production sources:
 
 Connector note: Canva design creation, folder creation, and resizing were
 available in this Codex session. Full-resolution PNG export from Canva was not
-exposed by the connector, so the repo continues to use the existing
-production-sized public-safe PNG assets until Canva exports are downloaded.
+exposed by the connector. The active repo PNGs were therefore refreshed from
+local Black2Africa launch-board visuals and live-site image assets. Canva
+remains an editable source option if exact Canva rasters are exported later.
 
 ## Hero Image
 

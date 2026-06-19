@@ -259,6 +259,44 @@ full-resolution PNG export action. The existing public-safe high-resolution PNG
 files remain active in the repository until exact Canva PNG exports are
 downloaded and reviewed.
 
+## GitHub Image Repair
+
+Date/time: 2026-06-18 21:52:56 -07:00
+
+The GitHub-facing image package was repaired to use actual Black2Africa local
+and live-site visuals instead of placeholder-only raster graphics.
+
+Updated required image slots:
+
+| Destination | Source material | Dimensions |
+| --- | --- | ---: |
+| `assets/hero/hero-image.png` | local route atlas plus live-site port, Lagos, meeting, and work-notes images | 2400 x 1350 |
+| `assets/banners/github-banner.png` | live-site Tema port and Lagos images | 1600 x 400 |
+| `assets/social/social-card.png` | local route atlas plus live-site trade/review images | 1200 x 630 |
+| `assets/icons/project-icon.png` | existing Black2Africa public site icon | 1024 x 1024 |
+
+Promoted local project visuals into the public gallery:
+
+- `assets/gallery/route-atlas-hero.png`
+- `assets/gallery/trade-map-homepage-anchor.png`
+- `assets/gallery/public-opportunities-anchor.png`
+- `assets/gallery/auntie-ip-desk-anchor.png`
+- `assets/gallery/sponsor-credit-surface.png`
+- `assets/gallery/workflow-status-map.png`
+
+Live site checked:
+
+```text
+https://black2africa.xyz/
+```
+
+Live page image set matched local plugin assets including Tema port routes,
+reviewed introductions, Lagos business context, and work/packet visuals.
+
+Privacy note: no private account consoles, source-code screens, credentials,
+customer records, legal/admin records, deployment receipts, private workflows,
+or protected dashboard screenshots were used.
+
 ## Privacy Status
 
 Readiness rating: READY AFTER FAITH REVIEW.

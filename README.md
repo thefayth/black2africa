@@ -57,19 +57,25 @@ The public story is intentionally simple:
 
 ## Visual Surface
 
-The repository includes public-safe visuals selected from the project brand
-system and staged for immediate GitHub and WordPress use.
+The repository uses public-safe visuals selected from the live
+Black2Africa.xyz image set, local launch-board visuals, and the project brand
+system. The main GitHub and WordPress rasters now come from actual project/site
+imagery instead of placeholder-only graphics.
 
 ![Black2Africa social card](assets/social/social-card.png)
 
 | Asset | Use |
 | --- | --- |
-| `assets/hero/hero-image.png` | README and WordPress hero |
-| `assets/banners/github-banner.png` | GitHub README banner |
-| `assets/social/social-card.png` | Social/Open Graph preview |
-| `assets/icons/project-icon.png` | Project icon |
+| `assets/hero/hero-image.png` | README and WordPress hero built from the local route atlas plus live-site images |
+| `assets/banners/github-banner.png` | GitHub README banner built from live-site port and Lagos visuals |
+| `assets/social/social-card.png` | Social/Open Graph preview built from route atlas and live-site images |
+| `assets/icons/project-icon.png` | Project icon from the existing Black2Africa site icon |
 | `assets/gallery/process-illustration.svg` | Public process/gallery visual |
 | `assets/gallery/hero-illustration.svg` | Public storytelling visual |
+| `assets/gallery/route-atlas-hero.png` | Local launch-board route atlas visual |
+| `assets/gallery/trade-map-homepage-anchor.png` | Local homepage launch-board visual |
+| `assets/gallery/public-opportunities-anchor.png` | Local opportunities/events launch-board visual |
+| `assets/gallery/auntie-ip-desk-anchor.png` | Local Auntie AI owner-support concept visual |
 
 Editable Canva sources for the banner, GitHub banner, WordPress hero, social
 card, project icon, and workflow infographic are tracked in
@@ -78,6 +84,21 @@ card, project icon, and workflow infographic are tracked in
 ![Black2Africa process illustration](assets/gallery/process-illustration.svg)
 
 ![Black2Africa trade map](assets/gallery/black2africa-trade-map.svg)
+
+<table>
+  <tr>
+    <td><img src="assets/gallery/route-atlas-hero.png" alt="Black2Africa route atlas visual"></td>
+    <td><img src="assets/gallery/trade-map-homepage-anchor.png" alt="Black2Africa homepage launch-board visual"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/gallery/public-opportunities-anchor.png" alt="Black2Africa public opportunities visual"></td>
+    <td><img src="assets/gallery/auntie-ip-desk-anchor.png" alt="Black2Africa Auntie AI owner-support visual"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/gallery/sponsor-credit-surface.png" alt="Black2Africa sponsor credit surface visual"></td>
+    <td><img src="assets/gallery/workflow-status-map.png" alt="Black2Africa workflow status map visual"></td>
+  </tr>
+</table>
 
 ## What is public?
 

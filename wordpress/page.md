@@ -20,7 +20,8 @@ Hero alt text:
 
 ```text
 Black2Africa hero image showing protected route infrastructure for reviewed
-Black US-Africa business pathways.
+Black US-Africa business pathways, with public site images for Tema port,
+Lagos business context, reviewed introductions, and protected packets.
 ```
 
 ## What This Project Is
@@ -101,7 +102,15 @@ Use these public-safe visual assets:
 - `assets/gallery/social-illustration.svg`
 - `assets/gallery/black2africa-trade-map.svg`
 - `assets/gallery/black2africa-route-desk.svg`
+- `assets/gallery/route-atlas-hero.png`
+- `assets/gallery/trade-map-homepage-anchor.png`
+- `assets/gallery/public-opportunities-anchor.png`
+- `assets/gallery/auntie-ip-desk-anchor.png`
+- `assets/gallery/sponsor-credit-surface.png`
+- `assets/gallery/workflow-status-map.png`
 - `assets/gallery/pexels-lagos-skyline-36622094.jpg`
+- `assets/gallery/pexels-tema-port-32458792.jpg`
+- `assets/gallery/pexels-work-notes-9430881.jpg`
 - `assets/gallery/pexels-business-meeting-8276198.jpg`
 - `assets/diagrams/workflow-overview.svg`
 - `assets/diagrams/public-private-boundary.svg`

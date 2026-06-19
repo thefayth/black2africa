@@ -6,6 +6,20 @@ This audit records the visual candidates inspected for the public Black2Africa
 GitHub export. Only assets rated `PUBLIC SAFE` were copied into
 `_github_public_export/`.
 
+## Live Site And Local Visual Refresh
+
+The GitHub-facing hero, banner, social card, and icon were updated to use
+actual Black2Africa project visuals:
+
+- live-site images currently used on `https://black2africa.xyz/`
+- local Black2Africa launch-board visuals
+- the existing Black2Africa site icon
+
+The prior placeholder-style raster package remains replaced by actual project
+visual material. No private account consoles, source-code screens, credential
+screens, legal/admin records, customer data, or private workflow screenshots
+were used.
+
 ## Canva Update
 
 Canva production folder:
@@ -44,15 +58,15 @@ Canva exports are downloaded and reviewed.
 
 | Source path | Destination path | Purpose | Alt text | Safety rating |
 | --- | --- | --- | --- | --- |
-| `public/brand/black2africa/asset-manifest.json` plus public brand palette | `assets/hero/hero-image.png` | README hero, WordPress hero, social impact image | Black2Africa hero image showing protected route infrastructure for reviewed Black US-Africa business pathways. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/route-atlas-hero.png` plus live-site images from `wp-content/plugins/black2africa-hub/assets/` | `assets/hero/hero-image.png` | README hero, WordPress hero, social impact image | Black2Africa hero image showing a local route atlas with live-site port, Lagos, meeting, and packet visuals. | PUBLIC SAFE |
 | `public/brand/black2africa/hero-visual.svg` | `assets/hero/hero-visual.svg` | Reusable vector hero source | Abstract Black2Africa hero visual with route and infrastructure motifs. | PUBLIC SAFE |
-| `public/brand/black2africa/asset-manifest.json` plus public brand palette | `assets/banners/github-banner.png` | GitHub README banner | Black2Africa GitHub banner with route lines and public/private ownership language. | PUBLIC SAFE |
+| `wp-content/plugins/black2africa-hub/assets/pexels-tema-port-32458792.jpg` plus `wp-content/plugins/black2africa-hub/assets/pexels-lagos-skyline-36622094.jpg` | `assets/banners/github-banner.png` | GitHub README banner | Black2Africa GitHub banner with Tema port and Lagos visuals from the public site image set. | PUBLIC SAFE |
 | `public/brand/black2africa/social-card.svg` | `assets/banners/github-repo-banner.svg` | Editable GitHub banner/source visual | Black2Africa public repository banner with protected-route visual language. | PUBLIC SAFE |
 | `public/brand/black2africa/social-card.svg` | `assets/social/social-card.svg` | Social preview source | Black2Africa social card with route and protected-record visual language. | PUBLIC SAFE |
-| `public/brand/black2africa/asset-manifest.json` plus public brand palette | `assets/social/social-card.png` | Social preview raster | Black2Africa social card for reviewed Black US-Africa business pathways. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/route-atlas-hero.png` plus live-site images from `wp-content/plugins/black2africa-hub/assets/` | `assets/social/social-card.png` | Social preview raster | Black2Africa social card with route atlas and live-site trade/review imagery. | PUBLIC SAFE |
 | `public/brand/black2africa/og-image.png` | `assets/social/og-image.png` | Existing social preview raster | Black2Africa social preview for a reviewed US-Africa business network. | PUBLIC SAFE |
 | `public/brand/black2africa/logo-mark.svg` | `assets/icons/project-mark.svg` | Project mark | Black2Africa project mark. | PUBLIC SAFE |
-| `public/brand/black2africa/asset-manifest.json` plus public brand palette | `assets/icons/project-icon.png` | Project icon | Black2Africa square project icon with route and folded-document mark. | PUBLIC SAFE |
+| `wp-content/plugins/black2africa-hub/assets/black2africa-icon-512.png` | `assets/icons/project-icon.png` | Project icon | Black2Africa existing public site icon. | PUBLIC SAFE |
 | `public/brand/black2africa/icon-192.png` | `assets/icons/project-icon-192.png` | Project icon fallback | Black2Africa 192-pixel project icon. | PUBLIC SAFE |
 | `public/brand/black2africa/icon-512.png` | `assets/icons/project-icon-512.png` | Project icon fallback | Black2Africa 512-pixel project icon. | PUBLIC SAFE |
 | `public/brand/black2africa/wordmark.svg` | `assets/banners/wordmark.svg` | Wordmark | Black2Africa wordmark. | PUBLIC SAFE |
@@ -85,6 +99,12 @@ Canva exports are downloaded and reviewed.
 | `wp-content/plugins/black2africa-hub/assets/black2africa-icon-192.png` | `assets/icons/black2africa-icon-192.png` | Existing project icon | Black2Africa existing 192-pixel icon. | PUBLIC SAFE |
 | `wp-content/plugins/black2africa-hub/assets/black2africa-icon-512.png` | `assets/icons/black2africa-icon-512.png` | Existing project icon | Black2Africa existing 512-pixel icon. | PUBLIC SAFE |
 | `wp-content/plugins/black2africa-hub/assets/auntie-ai-mark.svg` | `assets/icons/auntie-ai-mark.svg` | Auntie AI lane mark | Auntie AI mark for the owner-support lane. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/route-atlas-hero.png` | `assets/gallery/route-atlas-hero.png` | Launch-board route atlas visual | Black2Africa route atlas showing US-Africa route infrastructure. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/trade-map-homepage-anchor.png` | `assets/gallery/trade-map-homepage-anchor.png` | Homepage launch-board visual | Black2Africa homepage concept showing reviewed business routes across the United States and Africa. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/public-opportunities-anchor.png` | `assets/gallery/public-opportunities-anchor.png` | Opportunities and events launch-board visual | Black2Africa opportunities and events concept surface. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/auntie-ip-desk-anchor.png` | `assets/gallery/auntie-ip-desk-anchor.png` | Auntie AI owner-support concept visual | Black2Africa Auntie AI owner-support and IP desk concept surface. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/sponsor-credit-surface.png` | `assets/gallery/sponsor-credit-surface.png` | Sponsor and workflow surface visual | Black2Africa sponsor and workflow concept visual. | PUBLIC SAFE |
+| `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/workflow-status-map.png` | `assets/gallery/workflow-status-map.png` | Workflow status map visual | Black2Africa workflow status map concept visual. | PUBLIC SAFE |
 | Generated from public-safe workflow text | `assets/diagrams/workflow-overview.svg` | README and WordPress workflow diagram | Public-safe Black2Africa workflow from visitor interest to reviewed handoff and receipt archive. | PUBLIC SAFE |
 | Generated from public-safe boundary text | `assets/diagrams/public-private-boundary.svg` | README and boundary diagram | Black2Africa public-private boundary showing public repo, review layer, and private engine. | PUBLIC SAFE |
 
@@ -94,7 +114,7 @@ Canva exports are downloaded and reviewed.
 | --- | --- | --- | --- | --- |
 | `wp-content/plugins/black2africa-hub/assets/black2africa-hub.css` | Not copied | Plugin stylesheet | N/A | PRIVATE / DO NOT USE |
 | `wp-content/plugins/black2africa-hub/assets/*.ico` | Not copied | Runtime favicon files | N/A | WORDPRESS ONLY |
-| `docs/launch/black2africa-platform-launch/moodboards/**` | Not copied | Moodboard and generated launch visuals | N/A | WORDPRESS ONLY |
+| Remaining unselected files under `docs/launch/black2africa-platform-launch/moodboards/**` | Not copied | Moodboard and generated launch visuals not needed for GitHub | N/A | WORDPRESS ONLY |
 | `docs/brand/black2africa-auntie-ai-visual-os/assets/*.svg` | Not copied | Brand-system source sheets | N/A | WORDPRESS ONLY |
 | `docs/archive/**` | Not copied | Retired backups and old brand assets | N/A | PRIVATE / DO NOT USE |
 | `qa-screenshots/**` | Not copied | QA screenshots and browser profiles | N/A | PRIVATE / DO NOT USE |
@@ -102,7 +122,8 @@ Canva exports are downloaded and reviewed.
 
 ## Final Image Decision
 
-The export uses existing public Black2Africa visuals aggressively and adds
-public-safe PNG derivatives for GitHub and WordPress surfaces. No private
-screenshots, account consoles, legal/admin records, customer records, protected
-dashboards, or private strategy documents were copied.
+The export now uses actual public Black2Africa site images, local launch-board
+visuals, public brand graphics, and public-safe PNG derivatives for GitHub and
+WordPress surfaces. No private screenshots, account consoles, legal/admin
+records, customer records, protected dashboards, or private strategy documents
+were copied.

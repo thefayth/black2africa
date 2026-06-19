@@ -18,7 +18,8 @@ commerce without generic SaaS gloss.
 ## Existing Public Assets Used
 
 Selected assets were copied from the public brand folder and public-facing
-project visual assets:
+project visual assets. The main raster package now uses live-site
+Black2Africa.xyz images plus local launch-board visuals:
 
 - `assets/hero/hero-image.png`
 - `assets/hero/hero-visual.svg`
@@ -39,6 +40,10 @@ project visual assets:
 - `assets/icons/project-icon-512.png`
 - `assets/icons/project-mark.svg`
 - `assets/gallery/`
+- `assets/gallery/route-atlas-hero.png`
+- `assets/gallery/trade-map-homepage-anchor.png`
+- `assets/gallery/public-opportunities-anchor.png`
+- `assets/gallery/auntie-ip-desk-anchor.png`
 
 Private screenshots, QA browser profiles, deployment receipts, and
 working-source files were not copied. Public-facing plugin image assets were

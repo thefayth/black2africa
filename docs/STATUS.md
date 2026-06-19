@@ -8,9 +8,10 @@ Readiness: PUBLISHED TO GITHUB / READY FOR FAITH REVIEW
 - WordPress page draft prepared for FaithCheltenham.com.
 - Workflow diagrams prepared as Mermaid and SVG assets.
 - Public brand assets staged from `public/brand/black2africa/`.
-- Strong hero image prepared at `assets/hero/hero-image.png`.
-- Canva-quality PNG package prepared for hero, GitHub banner, social card, and
-  project icon.
+- Strong hero image prepared at `assets/hero/hero-image.png` using the local
+  route atlas plus live-site images from Black2Africa.xyz.
+- GitHub banner, social card, and project icon refreshed from actual local and
+  live-site Black2Africa assets.
 - Canva editable source designs created for the banner, GitHub banner,
   WordPress hero, social card, project icon, and workflow infographic.
 - Image briefs prepared for additional public-safe visual assets.
@@ -95,6 +96,12 @@ Prepared assets:
 - `assets/social/og-image.png`
 - `assets/gallery/pexels-lagos-skyline-36622094.jpg`
 - `assets/gallery/pexels-business-meeting-8276198.jpg`
+- `assets/gallery/route-atlas-hero.png`
+- `assets/gallery/trade-map-homepage-anchor.png`
+- `assets/gallery/public-opportunities-anchor.png`
+- `assets/gallery/auntie-ip-desk-anchor.png`
+- `assets/gallery/sponsor-credit-surface.png`
+- `assets/gallery/workflow-status-map.png`
 - selected public logo, wordmark, icon, pattern, hero, article, route-map, and
   gallery assets
 
@@ -109,9 +116,10 @@ Canva editable sources:
 - Workflow infographic: `DAHM_LsX2Q8`
 
 The Canva connector created designs and resized derivatives, but it did not
-expose a full-resolution PNG export action in this session. The public repo
-therefore keeps the existing production-sized PNG assets active until exact
-Canva exports are downloaded and reviewed.
+expose a full-resolution PNG export action in this session. The active
+GitHub-facing PNGs now use local and live-site project imagery; Canva remains
+an editable source option for later replacement if Faith exports exact Canva
+rasters.
 
 ## Review needed
 

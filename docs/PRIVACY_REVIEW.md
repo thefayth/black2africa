@@ -58,8 +58,10 @@ Safe visual materials included in the export:
 - selected public brand assets from `public/brand/black2africa/`
 - selected public-facing image assets from
   `wp-content/plugins/black2africa-hub/assets/`
-- public-safe PNG derivatives generated from the public brand palette and
-  project language
+- public-safe PNG derivatives generated from actual local project imagery and
+  public Black2Africa.xyz image assets
+- selected local launch-board visuals from
+  `docs/launch/black2africa-platform-launch/moodboards/qualified-launch-board/generated/`
 - original public-safe SVG workflow diagrams
 - prompt/spec files for future public images
 
@@ -121,6 +123,8 @@ The public surface may safely say:
 - Image candidates were audited in `docs/IMAGE_ASSET_AUDIT.md`.
 - Hero, banner, social, icon, gallery, and workflow assets are staged in public
   export folders.
+- Current GitHub hero, banner, social, and icon assets are derived from actual
+  public Black2Africa site images and local project visuals.
 
 ## Unsafe claims avoided
 

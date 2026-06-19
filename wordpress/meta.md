@@ -42,6 +42,9 @@ Status: draft only.
 
 Featured image recommendation: use `assets/hero/hero-image.png`.
 
+Featured image source note: this raster is built from the local
+Black2Africa route atlas and public Black2Africa.xyz image assets.
+
 Alternate featured image: `assets/hero/hero-visual.svg`.
 
 Canva featured image source:
@@ -54,7 +57,8 @@ Featured image alt text:
 
 ```text
 Black2Africa hero image showing protected route infrastructure for reviewed
-Black US-Africa business pathways.
+Black US-Africa business pathways, with public site images for Tema port,
+Lagos business context, reviewed introductions, and protected packets.
 ```
 
 Tags:

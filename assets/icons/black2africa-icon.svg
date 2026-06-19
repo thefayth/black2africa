@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa route-gate mark</title>
+  <desc id="desc">A dark square mark with a gold route gate, green bridge line, red destination node, and warm paper foundation for the Black2Africa partnership portal.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020403"/>
+      <stop offset="0.52" stop-color="#06140f"/>
+      <stop offset="1" stop-color="#0f3a2a"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f2b632"/>
+      <stop offset="0.45" stop-color="#168a5a"/>
+      <stop offset="1" stop-color="#d9412d"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0v42" fill="none" stroke="#fff7e8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="#050706"/>
+  <rect width="512" height="512" rx="92" fill="url(#field)"/>
+  <rect width="512" height="512" rx="92" fill="url(#grid)"/>
+  <path d="M92 337c42-116 101-174 177-174 68 0 119 42 151 126" fill="none" stroke="#f2b632" stroke-width="32" stroke-linecap="round"/>
+  <path d="M119 350h278" fill="none" stroke="#fff7e8" stroke-width="28" stroke-linecap="round"/>
+  <path d="M122 350c57-64 115-96 174-96 47 0 85 19 115 57" fill="none" stroke="url(#route)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M170 397h172" fill="none" stroke="#168a5a" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="154" cy="286" r="16" fill="#f2b632" filter="url(#glow)"/>
+  <circle cx="298" cy="254" r="15" fill="#168a5a" filter="url(#glow)"/>
+  <circle cx="397" cy="311" r="18" fill="#d9412d" filter="url(#glow)"/>
+  <path d="M252 132c38 0 68 30 68 68v22H184v-22c0-38 30-68 68-68Z" fill="#fff7e8"/>
+  <path d="M218 222v-18c0-19 15-34 34-34s34 15 34 34v18" fill="none" stroke="#050706" stroke-width="16" stroke-linecap="round"/>
+</svg>

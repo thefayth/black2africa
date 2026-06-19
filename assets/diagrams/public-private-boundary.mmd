@@ -1,0 +1,25 @@
+flowchart TB
+  subgraph public["Public-safe surface"]
+    readme["README and docs"]
+    page["FaithCheltenham.com draft"]
+    visuals["Public brand visuals"]
+    policy["Ownership and commercial-use policy"]
+  end
+
+  subgraph guarded["Guarded review layer"]
+    intake["Intake review"]
+    approval["Owner approval"]
+    claims["Claim and privacy review"]
+  end
+
+  subgraph private["Private engine"]
+    source["Source code"]
+    prompts["Private prompts and agent instructions"]
+    secrets["Credentials and account settings"]
+    records["Customer, legal, admin, family, and owner records"]
+    deploy["Deployment and production config"]
+  end
+
+  public --> guarded
+  guarded --> private
+  private -. excluded from repo .-> public

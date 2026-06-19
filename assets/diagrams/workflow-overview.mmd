@@ -1,0 +1,11 @@
+flowchart LR
+  visitor["Visitor or partner"] --> public["Public project surface"]
+  github["GitHub public repo"] --> public
+  wordpress["FaithCheltenham.com WordPress page"] --> public
+  public --> intake["Reviewed intake"]
+  intake --> review["Human/admin review point"]
+  review --> directory["Public-safe opportunity or profile output"]
+  review --> private["Private owner workspace"]
+  private --> packet["Preparation packet"]
+  packet --> handoff["Owner-controlled portal or professional handoff"]
+  handoff --> receipt["Receipt archive"]

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa Hero Illustration</title>
+  <desc id="desc">First-viewport brand world and visual hook. Style mode: Luxury still life. Context: brand, docs.</desc>
+  <rect width="960" height="640" fill="#F7F2EA"/>
+  <path d="M0 500c170-88 310-126 420-114 154 16 254-30 382-138 58-50 108-75 158-76v468H0Z" fill="#E3D3C0" opacity="0.78"/>
+  <g opacity="0.28" stroke="#151210" stroke-width="1">
+    <path d="M80 120H880M80 220H880M80 320H880M80 420H880"/>
+    <path d="M160 80V560M330 80V560M560 80V560M790 80V560"/>
+  </g>
+  
+  <ellipse cx="520" cy="420" rx="250" ry="58" fill="#151210" opacity="0.18"/>
+  <rect x="360" y="160" width="320" height="240" rx="54" fill="#B43B2A" opacity="0.92"/>
+  <circle cx="610" cy="160" r="92" fill="#245C73" opacity="0.86"/>
+  <rect x="300" y="276" width="190" height="146" rx="38" fill="#F7F2EA" stroke="#151210" stroke-width="8"/>
+  <text x="80" y="92" fill="#75695E" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">LUXURY-STILL-LIFE</text>
+  <text x="80" y="564" fill="#201915" font-family="Arial, sans-serif" font-size="42" font-weight="800">brand</text>
+  <text x="80" y="604" fill="#75695E" font-family="Arial, sans-serif" font-size="24">docs / folded document</text>
+</svg>

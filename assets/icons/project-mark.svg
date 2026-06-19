@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa mark</title>
+  <desc id="desc">Abstract folded document mark generated from the target site's context by Auntie AI.</desc>
+  <rect width="512" height="512" rx="112" fill="#151210"/>
+  <circle cx="256" cy="256" r="156" fill="#F7F2EA" opacity="0.96"/>
+  <path d="M170 118h124l80 80v196H170V118Zm124 28v72h72" fill="#B43B2A"/>
+  <path d="M204 278h136v28H204zM204 328h92v28h-92z" fill="#245C73" opacity="0.88"/>
+  <path d="M180 188h152v30H180zM180 236h102v30H180z" fill="#151210" opacity="0.9"/>
+</svg>

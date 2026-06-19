@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa hero visual</title>
+  <desc id="desc">Project-specific hero visual using civic data desk and gallery rhythm with anchored copy.</desc>
+  <rect width="1200" height="760" fill="#F7F2EA"/>
+  <path d="M0 580C220 420 370 380 560 418c160 32 256 8 382-104 76-68 156-102 258-104v550H0Z" fill="#E3D3C0"/>
+  <circle cx="900" cy="180" r="180" fill="#B43B2A" opacity="0.18"/>
+  <rect x="92" y="92" width="410" height="300" rx="38" fill="#151210"/>
+  <path d="M170 118h124l80 80v196H170V118Zm124 28v72h72" transform="translate(68 44) scale(.78)" fill="#B43B2A"/>
+  <rect x="570" y="128" width="520" height="72" rx="36" fill="#151210" opacity="0.92"/>
+  <rect x="570" y="236" width="370" height="42" rx="21" fill="#245C73" opacity="0.78"/>
+  <rect x="570" y="312" width="462" height="42" rx="21" fill="#75695E" opacity="0.32"/>
+  <rect x="94" y="484" width="1008" height="170" rx="34" fill="#F7F2EA" opacity="0.88"/>
+  <text x="110" y="560" fill="#75695E" font-family="Arial, sans-serif" font-size="24">brand</text><text x="390" y="560" fill="#75695E" font-family="Arial, sans-serif" font-size="24">auntie-ai</text><text x="670" y="560" fill="#75695E" font-family="Arial, sans-serif" font-size="24">docs</text><text x="110" y="618" fill="#75695E" font-family="Arial, sans-serif" font-size="24">for</text><text x="390" y="618" fill="#75695E" font-family="Arial, sans-serif" font-size="24">png</text><text x="670" y="618" fill="#75695E" font-family="Arial, sans-serif" font-size="24">black2africa</text>
+</svg>

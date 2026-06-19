@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">product-placeholder.svg</title>
+  <desc id="desc">product-card fallback imagery</desc>
+  <rect width="960" height="540" rx="40" fill="#F7F2EA"/>
+  <rect x="54" y="54" width="852" height="432" rx="34" fill="#151210" opacity="0.92"/>
+  <path d="M120 384c150-132 306-198 468-198 90 0 170 18 240 54" fill="none" stroke="#B43B2A" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="240" cy="204" r="70" fill="#245C73" opacity="0.82"/>
+  <rect x="356" y="320" width="312" height="44" rx="22" fill="#F7F2EA"/>
+  <rect x="356" y="388" width="190" height="34" rx="17" fill="#F7F2EA" opacity="0.7"/>
+</svg>

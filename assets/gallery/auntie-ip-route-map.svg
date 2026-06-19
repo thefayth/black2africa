@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Auntie AI IP route map</title>
+  <desc id="desc">A protected-work route map from idea capture to owner-controlled receipt.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020403"/>
+      <stop offset=".6" stop-color="#06140f"/>
+      <stop offset="1" stop-color="#123228"/>
+    </linearGradient>
+    <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse">
+      <path d="M45 0H0v45" fill="none" stroke="#fff7e8" stroke-opacity=".065"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="520" rx="26" fill="url(#field)"/>
+  <rect width="900" height="520" rx="26" fill="url(#grid)"/>
+  <path d="M98 342c116-112 224-158 326-139 92 18 135 87 231 72 55-8 102-39 145-92" fill="none" stroke="#f2b632" stroke-width="9" stroke-linecap="round"/>
+  <path d="M100 382c124-58 232-73 325-43 86 27 155 52 270 5" fill="none" stroke="#168a5a" stroke-width="11" stroke-linecap="round" opacity=".85"/>
+  <g fill="#fff7e8" stroke="#06140f" stroke-width="4">
+    <rect x="76" y="110" width="160" height="120" rx="18"/>
+    <rect x="286" y="84" width="176" height="140" rx="18"/>
+    <rect x="516" y="136" width="160" height="122" rx="18"/>
+    <rect x="708" y="86" width="132" height="152" rx="18"/>
+  </g>
+  <g stroke-linecap="round">
+    <path d="M111 150h78M111 180h98" stroke="#05241c" stroke-width="9"/>
+    <path d="M326 126h90M326 162h106" stroke="#05241c" stroke-width="9"/>
+    <path d="M550 180h78M550 212h88" stroke="#05241c" stroke-width="9"/>
+    <path d="M740 132h64M740 166h56" stroke="#05241c" stroke-width="9"/>
+    <path d="M116 206h52M326 196h60M550 238h45M740 206h42" stroke="#d9412d" stroke-width="10"/>
+  </g>
+  <g>
+    <circle cx="100" cy="342" r="12" fill="#f2b632"/>
+    <circle cx="424" cy="203" r="12" fill="#168a5a"/>
+    <circle cx="655" cy="275" r="12" fill="#168a5a"/>
+    <circle cx="800" cy="183" r="13" fill="#d9412d"/>
+  </g>
+</svg>

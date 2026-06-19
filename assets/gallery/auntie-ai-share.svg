@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Auntie AI share card</title>
+  <desc id="desc">A Black2Africa Auntie AI social share card for protected packet preparation.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020403"/>
+      <stop offset=".58" stop-color="#06140f"/>
+      <stop offset="1" stop-color="#123228"/>
+    </linearGradient>
+    <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse">
+      <path d="M58 0H0v58" fill="none" stroke="#fff7e8" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#field)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="1010" cy="120" r="190" fill="#d9412d" opacity=".17"/>
+  <circle cx="162" cy="560" r="230" fill="#168a5a" opacity=".16"/>
+  <path d="M88 472c170-174 351-261 544-261 176 0 331 62 465 186" fill="none" stroke="#f2b632" stroke-width="14" stroke-linecap="round" opacity=".36"/>
+  <g transform="translate(770 122)">
+    <rect width="260" height="342" rx="38" fill="#fff7e8"/>
+    <path d="M0 66c0-36 30-66 66-66h78l33 54h83v86H0Z" fill="#168a5a"/>
+    <path d="M52 174h132M52 218h160M52 262h100" stroke="#05241c" stroke-width="13" stroke-linecap="round"/>
+    <path d="M52 304h64" stroke="#d9412d" stroke-width="15" stroke-linecap="round"/>
+    <path d="M174 216c38 0 68 16 68 16v48c0 42-24 70-68 90-43-20-67-48-67-90v-48s29-16 67-16Z" fill="#05241c"/>
+    <path d="M145 312l29-66 29 66M158 284h31" fill="none" stroke="#fff7e8" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g fill="#fff7e8">
+    <text x="92" y="166" font-family="Georgia, serif" font-size="80" font-weight="700">Auntie AI</text>
+    <text x="92" y="256" font-family="Georgia, serif" font-size="68" font-weight="700">protects the packet</text>
+  </g>
+  <g fill="#d8d0bd" font-family="Arial, sans-serif" font-size="30" font-weight="700">
+    <text x="96" y="332">Review-first patent, trademark, copyright, publishing,</text>
+    <text x="96" y="374">evidence, and digital-protection preparation.</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="900" letter-spacing="3">
+    <rect x="96" y="430" width="268" height="52" rx="26" fill="#168a5a"/>
+    <text x="128" y="464" font-size="20" fill="#fff7e8">OWNER CONTROLLED</text>
+    <rect x="386" y="430" width="236" height="52" rx="26" fill="none" stroke="#f2b632" stroke-width="2"/>
+    <text x="418" y="464" font-size="20" fill="#f2b632">REVIEW FIRST</text>
+  </g>
+</svg>

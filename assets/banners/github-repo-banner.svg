@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa social card</title>
+  <desc id="desc">Generated social preview card for the brand.</desc>
+  <rect width="1200" height="630" fill="#151210"/>
+  <circle cx="1020" cy="110" r="230" fill="#B43B2A" opacity="0.28"/>
+  <circle cx="170" cy="550" r="190" fill="#245C73" opacity="0.18"/>
+  <rect x="72" y="72" width="1056" height="486" rx="44" fill="#F7F2EA" opacity="0.96"/>
+  <text x="112" y="186" fill="#75695E" font-family="Arial, sans-serif" font-size="28" letter-spacing="5">BLACK US-TO-AFRICA PARTNERSHIP PORTAL</text>
+  <text x="112" y="292" fill="#201915" font-family="Arial, sans-serif" font-size="76" font-weight="800">Black2Africa</text>
+  <foreignObject x="112" y="326" width="840" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font: 30px Arial, sans-serif; color: #75695E; line-height: 1.25;">Black2Africa helps Black builders move from signal to protected partnership routes across the United States and Africa.</div>
+  </foreignObject>
+  <rect x="956" y="372" width="112" height="112" rx="28" fill="#151210"/>
+  <path d="M986 438c23-39 51-60 84-64-8 19-10 37-6 54 4 16 13 31 28 44-43-1-78-12-106-34Z" fill="#B43B2A"/>
+</svg>

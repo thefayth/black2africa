@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa public and private boundary</title>
+  <desc id="desc">A public-safe boundary diagram showing public repo materials, guarded review layer, and private engine materials excluded from GitHub.</desc>
+  <rect width="1280" height="640" fill="#050806"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d6b03d"/>
+    </marker>
+  </defs>
+  <g font-family="Sora, Outfit, Arial, sans-serif">
+    <text x="64" y="70" fill="#fff4df" font-size="34" font-weight="700">Public surface. Guarded review. Private engine.</text>
+    <text x="64" y="104" fill="#f5e5c8" font-size="17">The repository explains the project without exposing the machinery that protects it.</text>
+  </g>
+  <g font-family="Sora, Outfit, Arial, sans-serif">
+    <rect x="60" y="160" width="340" height="330" rx="14" fill="#101713" stroke="#0f7a4f" stroke-width="3"/>
+    <text x="92" y="206" fill="#fff4df" font-size="24" font-weight="700">Public repo</text>
+    <text x="92" y="240" fill="#f5e5c8" font-size="16">README and docs</text>
+    <text x="92" y="270" fill="#f5e5c8" font-size="16">Ownership notices</text>
+    <text x="92" y="300" fill="#f5e5c8" font-size="16">Workflow diagrams</text>
+    <text x="92" y="330" fill="#f5e5c8" font-size="16">Public brand assets</text>
+    <text x="92" y="360" fill="#f5e5c8" font-size="16">WordPress draft</text>
+    <text x="92" y="420" fill="#16a36a" font-size="15" font-weight="700">Safe to review after Faith check</text>
+
+    <rect x="470" y="160" width="340" height="330" rx="14" fill="#111512" stroke="#d6b03d" stroke-width="3"/>
+    <text x="502" y="206" fill="#fff4df" font-size="24" font-weight="700">Guarded layer</text>
+    <text x="502" y="240" fill="#f5e5c8" font-size="16">Human review</text>
+    <text x="502" y="270" fill="#f5e5c8" font-size="16">Owner approval</text>
+    <text x="502" y="300" fill="#f5e5c8" font-size="16">Claim checks</text>
+    <text x="502" y="330" fill="#f5e5c8" font-size="16">Privacy review</text>
+    <text x="502" y="360" fill="#f5e5c8" font-size="16">Receipt creation</text>
+    <text x="502" y="420" fill="#d6b03d" font-size="15" font-weight="700">Needed before public action</text>
+
+    <rect x="880" y="160" width="340" height="330" rx="14" fill="#170c0a" stroke="#b8342a" stroke-width="3"/>
+    <text x="912" y="206" fill="#fff4df" font-size="24" font-weight="700">Private engine</text>
+    <text x="912" y="240" fill="#f5e5c8" font-size="16">Source code</text>
+    <text x="912" y="270" fill="#f5e5c8" font-size="16">Private prompts</text>
+    <text x="912" y="300" fill="#f5e5c8" font-size="16">Credentials and configs</text>
+    <text x="912" y="330" fill="#f5e5c8" font-size="16">Customer and owner records</text>
+    <text x="912" y="360" fill="#f5e5c8" font-size="16">Deployment systems</text>
+    <text x="912" y="420" fill="#ffb0a8" font-size="15" font-weight="700">Excluded from GitHub export</text>
+  </g>
+  <g stroke="#d6b03d" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M402 325 H466"/>
+    <path d="M812 325 H876"/>
+  </g>
+  <g stroke="#b8342a" stroke-width="3" fill="none" stroke-dasharray="9 9">
+    <path d="M872 520 C724 578 516 578 408 520"/>
+  </g>
+  <g font-family="Sora, Outfit, Arial, sans-serif">
+    <text x="438" y="590" fill="#f5e5c8" font-size="15">Private engine does not flow back into the public repo.</text>
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Black2Africa workflow overview</title>
+  <desc id="desc">A public-safe workflow showing visitor input, GitHub public repo, FaithCheltenham.com WordPress page, public surface, reviewed intake, admin review, public-safe outputs, private owner workspace, preparation packet, owner-controlled handoff, and receipt archive.</desc>
+  <rect width="1280" height="560" fill="#050806"/>
+  <path d="M0 82 C220 16 376 124 578 66 C798 3 1000 84 1280 24" fill="none" stroke="#d6b03d" stroke-opacity=".28" stroke-width="3"/>
+  <path d="M0 486 C260 430 378 520 596 466 C820 412 1015 500 1280 442" fill="none" stroke="#0f7a4f" stroke-opacity=".34" stroke-width="3"/>
+  <g font-family="Sora, Outfit, Arial, sans-serif">
+    <text x="64" y="62" fill="#fff4df" font-size="34" font-weight="700">Black2Africa public workflow</text>
+    <text x="64" y="94" fill="#f5e5c8" font-size="17">Public signal moves through review before anything protected becomes visible.</text>
+  </g>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000000" flood-opacity=".35"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d6b03d"/>
+    </marker>
+  </defs>
+  <g filter="url(#shadow)" font-family="Sora, Outfit, Arial, sans-serif">
+    <g transform="translate(54 176)">
+      <rect width="146" height="96" rx="10" fill="#101713" stroke="#0f7a4f" stroke-width="2"/>
+      <text x="73" y="42" text-anchor="middle" fill="#fff4df" font-size="16" font-weight="700">Visitor</text>
+      <text x="73" y="66" text-anchor="middle" fill="#f5e5c8" font-size="12">partner or owner</text>
+    </g>
+    <g transform="translate(230 176)">
+      <rect width="150" height="96" rx="10" fill="#101713" stroke="#d6b03d" stroke-width="2"/>
+      <text x="75" y="34" text-anchor="middle" fill="#fff4df" font-size="16" font-weight="700">Public</text>
+      <text x="75" y="56" text-anchor="middle" fill="#f5e5c8" font-size="12">GitHub + WordPress</text>
+      <text x="75" y="74" text-anchor="middle" fill="#f5e5c8" font-size="12">project surface</text>
+    </g>
+    <g transform="translate(410 176)">
+      <rect width="150" height="96" rx="10" fill="#101713" stroke="#0f7a4f" stroke-width="2"/>
+      <text x="75" y="40" text-anchor="middle" fill="#fff4df" font-size="16" font-weight="700">Reviewed</text>
+      <text x="75" y="64" text-anchor="middle" fill="#f5e5c8" font-size="12">intake</text>
+    </g>
+    <g transform="translate(590 176)">
+      <rect width="150" height="96" rx="10" fill="#101713" stroke="#b8342a" stroke-width="2"/>
+      <text x="75" y="40" text-anchor="middle" fill="#fff4df" font-size="16" font-weight="700">Review</text>
+      <text x="75" y="64" text-anchor="middle" fill="#f5e5c8" font-size="12">human checkpoint</text>
+    </g>
+    <g transform="translate(770 104)">
+      <rect width="166" height="96" rx="10" fill="#101713" stroke="#d6b03d" stroke-width="2"/>
+      <text x="83" y="38" text-anchor="middle" fill="#fff4df" font-size="15" font-weight="700">Public-safe</text>
+      <text x="83" y="62" text-anchor="middle" fill="#f5e5c8" font-size="12">output</text>
+    </g>
+    <g transform="translate(770 258)">
+      <rect width="166" height="96" rx="10" fill="#101713" stroke="#0f7a4f" stroke-width="2"/>
+      <text x="83" y="38" text-anchor="middle" fill="#fff4df" font-size="15" font-weight="700">Private owner</text>
+      <text x="83" y="62" text-anchor="middle" fill="#f5e5c8" font-size="12">workspace</text>
+    </g>
+    <g transform="translate(966 258)">
+      <rect width="150" height="96" rx="10" fill="#101713" stroke="#d6b03d" stroke-width="2"/>
+      <text x="75" y="40" text-anchor="middle" fill="#fff4df" font-size="15" font-weight="700">Preparation</text>
+      <text x="75" y="64" text-anchor="middle" fill="#f5e5c8" font-size="12">packet</text>
+    </g>
+    <g transform="translate(966 104)">
+      <rect width="150" height="96" rx="10" fill="#101713" stroke="#0f7a4f" stroke-width="2"/>
+      <text x="75" y="38" text-anchor="middle" fill="#fff4df" font-size="15" font-weight="700">Owner handoff</text>
+      <text x="75" y="62" text-anchor="middle" fill="#f5e5c8" font-size="12">portal or partner</text>
+    </g>
+    <g transform="translate(1138 176)">
+      <rect width="96" height="96" rx="48" fill="#f5e5c8" stroke="#d6b03d" stroke-width="2"/>
+      <text x="48" y="43" text-anchor="middle" fill="#050806" font-size="14" font-weight="700">Receipt</text>
+      <text x="48" y="64" text-anchor="middle" fill="#050806" font-size="11">archive</text>
+    </g>
+  </g>
+  <g stroke="#d6b03d" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M202 224 H226"/>
+    <path d="M382 224 H406"/>
+    <path d="M562 224 H586"/>
+    <path d="M742 214 C760 190 762 174 768 154"/>
+    <path d="M742 236 C762 264 760 290 768 306"/>
+    <path d="M938 306 H962"/>
+    <path d="M1041 256 V204"/>
+    <path d="M1118 152 C1142 164 1150 180 1158 198"/>
+  </g>
+  <g font-family="Sora, Outfit, Arial, sans-serif" fill="#f5e5c8" font-size="13">
+    <text x="64" y="432">GitHub and FaithCheltenham.com explain the project. Public claims stay reviewable. Private records stay private.</text>
+    <text x="64" y="456">Official filing, payment, signature, and account actions stay owner-controlled.</text>
+  </g>
+</svg>

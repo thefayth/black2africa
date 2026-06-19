@@ -63,8 +63,8 @@ project folder.
 
 ## After publication
 
-- [ ] Confirm GitHub repo contains only public-surface files.
+- [x] Confirm GitHub repo contains only public-surface files.
 - [ ] Confirm WordPress page has no private screenshots or private links.
-- [ ] Save publication receipts.
+- [x] Save publication receipts.
 - [ ] Add public repo link to the WordPress page only after final review.
 

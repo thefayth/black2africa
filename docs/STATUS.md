@@ -1,6 +1,6 @@
 # Status
 
-Readiness: READY AFTER FAITH REVIEW
+Readiness: PUBLISHED TO GITHUB / READY FOR FAITH REVIEW
 
 ## Current state
 
@@ -13,7 +13,7 @@ Readiness: READY AFTER FAITH REVIEW
   project icon.
 - Image briefs prepared for additional public-safe visual assets.
 - Canva asset plan prepared.
-- GitHub repo recommendation prepared.
+- GitHub repo created and populated.
 - Full source, deployment engine, and private records excluded.
 
 ## Product state
@@ -44,10 +44,26 @@ GitHub connector repo checks returned `NOT_FOUND` for
 Local GitHub CLI authentication is still invalid, so remote creation and push
 must wait for `gh auth login -h github.com`.
 
-GitHub CLI was checked locally. The stored GitHub token was invalid, so no
-remote repo was created and nothing was pushed. `_github_public_export/` has
-been initialized as a local Git repository on `main`, committed, and pointed at
-`https://github.com/thefayth/black2africa.git` as `origin`.
+GitHub CLI was checked locally. After clearing dead local proxy environment
+variables for the command, the repo was verified and populated.
+`_github_public_export/` is a local Git repository on `main`, committed, and
+pointed at `https://github.com/thefayth/black2africa.git` as `origin`.
+
+Live repository:
+
+```text
+https://github.com/thefayth/black2africa
+```
+
+Remote default branch: `main`.
+
+Topics:
+
+- `black2africa`
+- `faith-cheltenham`
+- `public-surface`
+- `black-entrepreneurship`
+- `us-africa-business`
 
 The parent project has an empty `.git` directory marker, but Git does not treat
 the parent folder as an initialized repository. Initialize and push from
@@ -96,4 +112,9 @@ Faith should review:
 - Canva asset plan
 - workflow diagrams
 - final repo visibility before publishing
+
+## Published
+
+The public surface has been pushed to GitHub. Faith should review the live repo
+before sharing it widely or linking it from FaithCheltenham.com.
 
